@@ -1,7 +1,7 @@
 # PW collection bot
-The cards are moving under the hood while you are making something great again.
+The cards move themselves right “under the hood” while you're making something great again or chatting in clan chat.
 
-The script can be used both ways: within Tampermonkey add-on or standalone via copy-pasting in browser console.
+The script can be used both ways: within Tampermonkey browser add-on or standalone via copy-pasting in browser console.
 
 [Install the script](https://github.com/FairHypo/pw-collection/raw/main/collection.user.js)
 
@@ -14,3 +14,21 @@ If the script is broken, or you find a bug - please find me in any way possible 
 Do the same with all ideas and suggestions for improving the script.
 
 Good luck!
+
+-----------------------------------------------------------------
+
+Карточки двигаются сами прямо "под капотом", пока вы вновь создаете нечто великое или болтаете в клановом чате.
+
+Скрипт можно использовать как в составе дополнения для браузеров Tampermonkey, так и отдельно, скопировав его в консоль браузера.
+
+[Установить скрипт](https://github.com/FairHypo/pw-collection/raw/main/collection.user.js)
+
+Скрипт задаст необходимые вопросы с помощью алертов и начнет выполнение после этого.
+
+Когда целевая категория будет собрана или карточки закончатся, скрипт покажет статистику распределения карточек по категориям, а также выдаст оповещение.
+
+Если скрипт сломался или вы обнаружили баг - пожалуйста разыщите меня любым возможным способом и сообщите о проблеме.
+
+Со всеми идеями и предложениями о доработке скрипта поступайте аналогично.
+
+Удачи!
