@@ -1,3 +1,5 @@
 # pw-collection
-The cards are moving while you doing something really great
-[Install script](https://github.com/ваш_пользователь/ваш_репозиторий/raw/main/скрипт.user.js)
+The cards are moving while you are doing something great.
+[Install script](https://github.com/FairHypo/pw-collection/raw/main/collection.user.js)
+
+Good luck!
