@@ -256,14 +256,14 @@ if (confirm('Запустить скрипт разбора карточек?'))
         alert('Категория введена неверно.\nВы ошиблись.\nПора научиться считать до шести!')
     } else {
         let debugModeOn = false
-        const debugModeConfirmationMessage = 'Внимание!\n' +
-            'Включить НЕ обязательный Интерактивный режим?\n' +
-            'Это потребует личного присутствия за компьютером и ручных действий в процессе.\n' +
-            'Не рекомендуется для обычного сценария использования.\n' +
-            'Жми отмену!!!'
-        if (confirm(debugModeConfirmationMessage)) {
-            debugModeOn = true
-        }
+        // const debugModeConfirmationMessage = 'Внимание!\n' +
+        //     'Включить НЕ обязательный Интерактивный режим?\n' +
+        //     'Это потребует личного присутствия за компьютером и ручных действий в процессе.\n' +
+        //     'Не рекомендуется для обычного сценария использования.\n' +
+        //     'Жми отмену!!!'
+        // if (confirm(debugModeConfirmationMessage)) {
+        //     debugModeOn = true
+        // }
         const roulette = new CollectionRoulette(targetCat, debugModeOn)
         await roulette.process()
     }
